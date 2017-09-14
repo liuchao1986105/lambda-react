@@ -1,0 +1,37 @@
+.article_title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.pay_button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items:center;
+}
+
+
+.markdown-content{
+  color: #2f2f2f;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+.markdown-content img{
+  max-width: 100%;
+  display: block;
+  margin: 20px auto;
+}
+
+.doctags {
+  color:#fff;
+  background-color:#525e64;
+  font-size:12px;
+  text-align:center;
+  padding: 1px 0px;
+  display: inline-block;
+ /* margin-left:15px;*/
+}

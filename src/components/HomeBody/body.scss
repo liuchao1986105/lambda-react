@@ -1,0 +1,46 @@
+.title {
+  color:#333;
+  font-size:24px;
+  font-weight:bold;
+}
+
+.topicContent {
+  text-align: left;
+  font-size: 12px;
+  color: #666;
+  line-height: 1.8;
+  margin-top: 15px;
+  height:auto;
+}
+
+.collectCount {
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+  margin-top: 15px;
+  margin-bottom:10px;
+}
+
+.bodyDiv {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.classDiv {
+  position: relative;
+}
+
+.classSpan {
+    position: absolute;
+    top: -50px;
+    left: 10px;
+    z-index: 5;
+    border: 1px solid #32C5D2;
+    color: #fff;
+    padding: 1px 6px;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.8;
+}
+

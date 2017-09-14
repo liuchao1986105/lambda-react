@@ -1,0 +1,15 @@
+.signinup {
+  width:100%;
+  /*background-image: url(./bg-29.jpg);*/
+  background-repeat:no-repeat;
+  background-size:cover;
+  position:fixed;
+  height:100%;
+}
+
+.captchaDiv {
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+}

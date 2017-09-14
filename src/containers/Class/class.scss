@@ -1,0 +1,50 @@
+.classbgimg {
+  /*background: url("./bg-1.jpg");*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #FFFFFF;
+  margin-top: -55px;
+  text-align: center;
+  padding: 120px 0px 65px 0px;
+  margin-bottom: 35px;
+  height:365px;
+  position: relative;
+}
+
+.stateSpan {
+    position: absolute;
+    top: 315px;
+    left: 15px;
+    z-index: 5;
+    border: 1px solid #32C5D2;
+    color: #fff;
+    padding: 1px 6px;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.8;
+}
+
+
+.classbgimg h1 {
+  font-size: 2.3rem;
+
+}
+
+.classbgimg h2 {
+  margin-top: 15px;
+  font-size: 50px;
+}
+
+
+.classTitleimg {
+  position: relative;
+  width:100%;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: 100% 90%;
+  color: #FFFFFF;
+}
+
+
+
